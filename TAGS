@@ -1,0 +1,7 @@
+
+game.rb,198
+class RPSRPS3,0
+  attr_writer :rand_seedrand_seed=4,0
+  def initialize(guess:)initialize6,0
+  def randomization_algorithmrandomization_algorithm10,0
+  def computer_guesscomputer_guess14,0
